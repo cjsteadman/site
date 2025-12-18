@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/chris-steadman-214021227/
     - icon: github
       text: Github
-      href: https://github.com/thelabtroll
+      href: https://github.com/cjsteadman
     # Academic Icons: https://jpswalsh.github.io/academicons/
     # - text: "{{< ai iconname >}} IconName"
     #   href: link
