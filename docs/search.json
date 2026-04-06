@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chris Steadman",
-    "section": "",
-    "text": "Welcome! I’m a Ph.D. student in Educational Psychology at the University of Minnesota - Twin Cities, with a profound interest in understanding how the mind encodes, retains, and retrieves information."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -21,24 +14,24 @@
     "text": "Education\nUniversity of Minnesota - Twin Cities, Ed Psych | Minneapolis, MN\nPh.D. Student in Educational Psychology| 2022 - Present\nUniversity of Minnesota - Twin Cities, Cog Sci | Minneapolis, MN\nPh.D. Student in Cognitive Science| 2020 - 2022\nUniversity of Minnesota - Twin Cities, MBS | Minneapolis, MN\nMaster of Biological Sciences in Anatomy Education | 2016 - 2020"
   },
   {
-    "objectID": "about.html#references",
-    "href": "about.html#references",
-    "title": "About",
-    "section": "References",
-    "text": "References\nHank | Chief Barking Scientist | Three Bark Manor\nSadie | Naptime Engineer | Three Bark Manor"
-  },
-  {
     "objectID": "about.html#lab-affiliations",
     "href": "about.html#lab-affiliations",
     "title": "About",
     "section": "Lab Affiliations",
-    "text": "Lab Affiliations\nLearning Informatics Lab | Graduate Student Researcher | University of Minnesota - Twin Cities\nFeedback Lab | Graduate Student Researcher | University of Minnesota - Twin Cities"
+    "text": "Lab Affiliations\nLearning Informatics Lab | Managing Director | University of Minnesota - Twin Cities\nAffect, Cognition & Computation Lab | Graduate Student Researcher | University of Minnesota - Twin Cities\nFeedback Lab | Graduate Student Researcher | University of Minnesota - Twin Cities"
   },
   {
     "objectID": "about.html#latest-research",
     "href": "about.html#latest-research",
     "title": "About",
     "section": "Latest Research",
-    "text": "Latest Research\nCommonalities Between Déjà Vu, Involuntary Autobiographical Memories, and Unexpected Thoughts: Investigating Involuntary Thoughts Across the Lifespan\nPresented at Society for Text and Discourse Conference 2024"
+    "text": "Latest Research\nToo Hard or Just Right? How Difficulty Affects Student Engagement\nPresented at Winter Text and Discourse Conference 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chris Steadman",
+    "section": "",
+    "text": "Welcome! I’m a Ph.D. student in Educational Psychology at the University of Minnesota - Twin Cities, with a profound interest in understanding how the mind encodes, retains, and retrieves information."
   }
 ]
