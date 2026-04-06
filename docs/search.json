@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Chris’ research focuses on the interplay between memory, attention, and learning within educational contexts. His work aims to enhance our understanding of how these cognitive processes influence students’ academic performance and inform effective teaching strategies. His current interests involve the use of naturally occurring data to detect and understand behavior in online learning environments.\nOutside of the lab, Chris enjoys knitting and playing tennis. You can also find him playing around with computer code, listening to podcasts, or devouring a good book."
+    "text": "Chris studies how people experience and respond to moments of difficulty and failure while learning. He uses a variety of methods, including experimental, quasi-experimental designs, and predictive analytics approaches, to understand what behaviors and thoughts are associated with these experiences. He is also interested in reframing how we conceptualized failure at both an individual and institutional level. While failure is necessary for learning, it is often stigmatized in educational settings. Chris is interested in reframing failure as a necessary and productive part of the learning process, and how we can create more supportive environments for students to experience and learn from failure.\nOutside of the lab, Chris enjoys knitting and playing tennis. You can also find him playing around with computer code, listening to podcasts, or devouring a good book."
   },
   {
     "objectID": "about.html#education",
@@ -21,17 +21,17 @@
     "text": "Lab Affiliations\nLearning Informatics Lab | Managing Director | University of Minnesota - Twin Cities\nAffect, Cognition & Computation Lab | Graduate Student Researcher | University of Minnesota - Twin Cities\nFeedback Lab | Graduate Student Researcher | University of Minnesota - Twin Cities"
   },
   {
-    "objectID": "about.html#latest-research",
-    "href": "about.html#latest-research",
+    "objectID": "about.html#curriculum-vitae-latest-research",
+    "href": "about.html#curriculum-vitae-latest-research",
     "title": "About",
-    "section": "Latest Research",
-    "text": "Latest Research\nToo Hard or Just Right? How Difficulty Affects Student Engagement\nPresented at Winter Text and Discourse Conference 2025"
+    "section": "Curriculum Vitae & Latest Research",
+    "text": "Curriculum Vitae & Latest Research\nCurriculum Vitae\nUsing LMS Activity to Identify Early Academic Difficulty in First-Year Students\nPresented at CEHD Student Research Day, University of Minnesota - Twin Cities, 2026"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Chris Steadman",
     "section": "",
-    "text": "Welcome! I’m a Ph.D. student in Educational Psychology at the University of Minnesota - Twin Cities, with a profound interest in understanding how the mind encodes, retains, and retrieves information."
+    "text": "Welcome! I’m a Ph.D. student in Educational Psychology at the University of Minnesota - Twin Cities, with a profound interest in understanding how we can use naturally occurring and Big Data to inform educational practice."
   }
 ]

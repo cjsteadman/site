@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Chris' research focuses on the interplay between memory, attention, and learning within educational contexts. His work aims to enhance our understanding of how these cognitive processes influence students' academic performance and inform effective teaching strategies. His current interests involve the use of naturally occurring data to detect and understand behavior in online learning environments.
+Chris studies how people experience and respond to moments of difficulty and failure while learning. He uses a variety of methods, including experimental, quasi-experimental designs, and predictive analytics approaches, to understand what behaviors and thoughts are associated with these experiences. He is also interested in reframing how we conceptualized failure at both an individual and institutional level. While failure is necessary for learning, it is often stigmatized in educational settings. Chris is interested in reframing failure as a necessary and productive part of the learning process, and how we can create more supportive environments for students to experience and learn from failure. 
 
 Outside of the lab, Chris enjoys knitting and playing tennis. You can also find him playing around with computer code, listening to podcasts, or devouring a good book.
 
@@ -28,7 +28,10 @@ Master of Biological Sciences in Anatomy Education \| 2016 - 2020
 
 [Feedback Lab](https://edpsych.umn.edu/research/labs/martin-vanboekel) \| Graduate Student Researcher \| University of Minnesota - Twin Cities
 
-## Latest Research
-[Too Hard or Just Right? How Difficulty Affects Student Engagement](files/WTD2025.pdf) 
+## Curriculum Vitae & Latest Research
 
-Presented at Winter Text and Discourse Conference 2025
+[Curriculum Vitae](files/CV%20Steadman.pdf)
+
+[Using LMS Activity to Identify Early Academic Difficulty in First-Year Students](files/GSRD_26.pdf) 
+
+Presented at CEHD Student Research Day, University of Minnesota - Twin Cities, 2026
